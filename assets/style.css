@@ -1,0 +1,36 @@
+#container{
+  width:550px;
+  height:200px;
+  border: 2px solid maroon;
+  margin: 90px auto;
+  border-radius: 10px;
+}
+
+h2{
+  text-align:center;
+  color: maroon;
+}
+
+input{
+  width:300px;
+  height:40px;
+  border:1px solid maroon;
+  border-radius: 5px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 120px;
+}
+
+#meter{
+  border:1px solid maroon;
+  width: 300px;
+  height:15px;
+  margin:20px auto;
+  border-radius: 5px;
+}
+
+#result{
+  font-size: larger;
+  font-weight: bold;
+  margin-left: 120px;
+}
